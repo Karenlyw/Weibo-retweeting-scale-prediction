@@ -19,3 +19,5 @@ svm.py: SVM的训练测试代码
 gbdt.py: GBDT的训练测试代码  
 retweeting_scale_prediction.py: 转发规模预测代码  
 训练好的转发规模分类器模型为gbdt_model.pkl。  
+
+模型原理及详情请见论文http://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2019.0720
